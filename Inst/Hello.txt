@@ -1,0 +1,5 @@
+IMPORTANT:
+
+IonoProbe requires Internet Explorer 5 or higher properly installed and configured to access the Internet. If you do not have the latest IE on your system, please install it prior to running IonoProbe. 
+
+YOU DO NOT HAVE TO USE IE5 AS YOUR DEFAULT BROWSER, it just has to be present on your system.

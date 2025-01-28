@@ -1,0 +1,43 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=IonoProbe.chm
+Contents file=IonoProbe.hhc
+;Index file=IonoProbe.hhk
+Error log file=IonoProbe.log
+Display compile progress=No
+Language=0x409 English (United States)
+Full-text search=Yes
+Full text search stop list file=IonoProbe.stp
+
+[TEXT POPUPS]
+cshelp.txt
+
+[INFOTYPES]
+
+
+[FILES]
+Welcome.htm
+Overview.htm
+User interface.htm
+Main Window.htm
+Menu.htm
+File.htm
+Download.htm
+Help.htm
+Settings Dialog.htm
+Systray Icon.htm
+Popup Menu.htm
+Downloading Data.htm
+Reading Graphs.htm
+Using Alerts.htm
+Summary Panel.htm
+Reports Panel.htm
+Understanding Parameters.htm
+SSN and SFI.htm
+Kp and Ap.htm
+Effective SSN.htm
+Auroral Activity.htm
+Proton Flux.htm
+X-Ray Flux.htm
+Affected areas.htm
+Registration.htm

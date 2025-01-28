@@ -1,0 +1,25 @@
+Welcome
+Overview
+User interface
++Main Window
+++Menu
++++File
++++Download
++++Help
++Settings Dialog
++Systray Icon
+++Popup Menu
+Downloading Data
+Reading Graphs
+Using Alerts
+Summary Panel
+Reports Panel
+Understanding Parameters
++SSN and SFI
++Kp and Ap
++Effective SSN
++Auroral Activity
++Proton Flux
++X-Ray Flux
++Affected areas
+Registration

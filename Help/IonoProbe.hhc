@@ -1,0 +1,142 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<OBJECT type="text/site properties">
+        <param name="Window Styles" value="0x800025">
+</OBJECT>
+<UL>
+        <LI> <OBJECT type="text/sitemap">
+                <param name="Name" value="Welcome">
+                <param name="Local" value="Welcome.htm">
+                <param name="ImageNumber" value="11">
+                </OBJECT>
+        <LI> <OBJECT type="text/sitemap">
+                <param name="Name" value="Overview">
+                <param name="Local" value="Overview.htm">
+                <param name="ImageNumber" value="11">
+                </OBJECT>
+        <LI> <OBJECT type="text/sitemap">
+                <param name="Name" value="User interface">
+                <param name="Local" value="User interface.htm">
+                </OBJECT>
+        <UL>
+                <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="Main Window">
+                        <param name="Local" value="Main Window.htm">
+                        </OBJECT>
+                <UL>
+                        <LI> <OBJECT type="text/sitemap">
+                                <param name="Name" value="Menu">
+                                <param name="Local" value="Menu.htm">
+                                </OBJECT>
+                        <UL>
+                                <LI> <OBJECT type="text/sitemap">
+                                        <param name="Name" value="File">
+                                        <param name="Local" value="File.htm">
+                                        <param name="ImageNumber" value="11">
+                                        </OBJECT>
+                                <LI> <OBJECT type="text/sitemap">
+                                        <param name="Name" value="Download">
+                                        <param name="Local" value="Download.htm">
+                                        <param name="ImageNumber" value="11">
+                                        </OBJECT>
+                                <LI> <OBJECT type="text/sitemap">
+                                        <param name="Name" value="Help">
+                                        <param name="Local" value="Help.htm">
+                                        <param name="ImageNumber" value="11">
+                                        </OBJECT>
+                        </UL>
+                </UL>
+                <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="Settings Dialog">
+                        <param name="Local" value="Settings Dialog.htm">
+                        <param name="ImageNumber" value="11">
+                        </OBJECT>
+                <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="Systray Icon">
+                        <param name="Local" value="Systray Icon.htm">
+                        </OBJECT>
+                <UL>
+                        <LI> <OBJECT type="text/sitemap">
+                                <param name="Name" value="Popup Menu">
+                                <param name="Local" value="Popup Menu.htm">
+                                <param name="ImageNumber" value="11">
+                                </OBJECT>
+                </UL>
+        </UL>
+        <LI> <OBJECT type="text/sitemap">
+                <param name="Name" value="Downloading Data">
+                <param name="Local" value="Downloading Data.htm">
+                <param name="ImageNumber" value="11">
+                </OBJECT>
+        <LI> <OBJECT type="text/sitemap">
+                <param name="Name" value="Reading Graphs">
+                <param name="Local" value="Reading Graphs.htm">
+                <param name="ImageNumber" value="11">
+                </OBJECT>
+        <LI> <OBJECT type="text/sitemap">
+                <param name="Name" value="Using Alerts">
+                <param name="Local" value="Using Alerts.htm">
+                <param name="ImageNumber" value="11">
+                </OBJECT>
+        <LI> <OBJECT type="text/sitemap">
+                <param name="Name" value="Summary Panel">
+                <param name="Local" value="Summary Panel.htm">
+                <param name="ImageNumber" value="11">
+                </OBJECT>
+        <LI> <OBJECT type="text/sitemap">
+                <param name="Name" value="Reports Panel">
+                <param name="Local" value="Reports Panel.htm">
+                <param name="ImageNumber" value="11">
+                </OBJECT>
+        <LI> <OBJECT type="text/sitemap">
+                <param name="Name" value="Understanding Parameters">
+                <param name="Local" value="Understanding Parameters.htm">
+                </OBJECT>
+        <UL>
+                <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="SSN and SFI">
+                        <param name="Local" value="SSN and SFI.htm">
+                        <param name="ImageNumber" value="11">
+                        </OBJECT>
+                <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="Kp and Ap">
+                        <param name="Local" value="Kp and Ap.htm">
+                        <param name="ImageNumber" value="11">
+                        </OBJECT>
+                <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="Effective SSN">
+                        <param name="Local" value="Effective SSN.htm">
+                        <param name="ImageNumber" value="11">
+                        </OBJECT>
+                <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="Auroral Activity">
+                        <param name="Local" value="Auroral Activity.htm">
+                        <param name="ImageNumber" value="11">
+                        </OBJECT>
+                <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="Proton Flux">
+                        <param name="Local" value="Proton Flux.htm">
+                        <param name="ImageNumber" value="11">
+                        </OBJECT>
+                <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="X-Ray Flux">
+                        <param name="Local" value="X-Ray Flux.htm">
+                        <param name="ImageNumber" value="11">
+                        </OBJECT>
+                <LI> <OBJECT type="text/sitemap">
+                        <param name="Name" value="Affected areas">
+                        <param name="Local" value="Affected areas.htm">
+                        <param name="ImageNumber" value="11">
+                        </OBJECT>
+        </UL>
+        <LI> <OBJECT type="text/sitemap">
+                <param name="Name" value="Registration">
+                <param name="Local" value="Registration.htm">
+                <param name="ImageNumber" value="11">
+                </OBJECT>
+</UL>
+</BODY></HTML>

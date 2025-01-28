@@ -1,0 +1,82 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<LINK REL = "stylesheet" TYPE = "text/css" HREF = "IonoProbe.css"> 
+
+<Title>Using Alerts</Title>
+</HEAD>
+<BODY>
+
+<h1>Using Alerts</h1>
+
+Two types of storm alerts are available in IonoProbe,
+<span class=Blu>WWV Alerts</span> and
+<span class=Blu>Real-Time Alerts</span>.
+
+<br><br><br>
+<h2>WWV Alerts</h2>
+
+IonoProbe downloads the WWV Geophysical Alerts and displays them
+in an easy to understand way.
+These alerts are updated every 3 hours and cover the last
+24-hour period as well as provide information about the storms
+expected in the next 24 hours.
+
+<br><br>
+<center>
+<img src="Alerts.gif" width="298" height="110" alt="" border="0">
+</center>
+
+
+<p>
+Three types of storms are reported by WWV:
+
+
+<p>
+<b>G0</b> - <b>G5</b>: geomagnetic storms;<br>
+<b>S0</b> - <b>S5</b>: solar radiation storms;<br>
+<b>R0</b> - <b>R5</b>: radio blackouts.<br>
+
+<p>
+Storm levels are displayed with six 'lamps'. 
+The colors of lamps change from green through yellow to red
+to reflect the storm level; past values are dimmed.
+Mouse-over hints provide text representation of the conditions.
+
+<p>
+Click on the lamps for a description of storm types
+and storm level codes.
+
+
+<br><br><br><br>
+<h2>Real-Time Alerts</h2>
+
+Some space weather events, such as X-Ray bursts 
+that cause radio blackouts, last from tens of minutes to 
+a few hours. WWV alerts are not frequent enough to report 
+such events in real time. 
+<br><br>
+IonoProbe has its own system of alerts based on 
+the real-time data. It monitors the 
+<a href="X-ray Flux.htm">X-ray Flux</a>, 
+<a href="Proton Flux.htm">Proton Flux</a> and 
+<a href="Kp and Ap.htm">Kp Index</a>
+and fires an alarm when the value crosses the red line.
+You can enable or disable the audio alarm in the
+<a href="Settings Dialog.htm">Settings Dialog</a>.
+
+<p>
+
+When a storm is in progress, the 
+<a href="Systray Icon.htm">Systray Icon</a>
+turns from blue 
+<img src="BlueIcon.gif" width="16" height="14" alt="" border="0">
+to red
+<img src="RedIcon.gif" width="16" height="14" alt="" border="0">,
+and its mouse-over hint displays the storm message.
+
+
+
+</BODY>
+</HTML>

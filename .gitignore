@@ -1,0 +1,7 @@
+*.dcu
+*.drc
+*.dof
+*.dsk
+*.cfg
+*.~*
+*.exe

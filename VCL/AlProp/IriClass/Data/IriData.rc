@@ -1,0 +1,5 @@
+RZ_IG RCDATA "RZ_IG.dat"
+M3000_COEFF RCDATA "M3000_COEFF.dat"
+URSI_COEFF RCDATA "URSI_COEFF.dat"
+CorMagLatTable RCDATA "CorMagLatTable.dat"
+AuMagLatTable RCDATA "AuMagLatTable.dat"

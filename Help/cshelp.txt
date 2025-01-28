@@ -1,0 +1,249 @@
+.topic 1
+Kp index:
+
+
+A 3-hourly planetary index of geomagnetic activity
+
+
+
+Impact on HF propagarion:
+
+
+A disturbance in the geomagnetic field can often 
+
+cause a disturbance in the F region of the 
+
+ionosphere, resulting in an ionospheric storm. 
+
+Higher frequencies are most affected by such
+
+storms. Ionospheric storms may last for a number 
+
+of days
+
+.topic 2
+Auroral activity index:
+
+
+An estimation of the total power input by auroral 
+
+particles to the polar regions on the scale 
+
+of 1 to 10
+
+
+
+Impact on HF propagarion:
+
+
+Auroral Absorption events (AA) on HF 
+
+Auroral propagation on VHF
+
+.topic 3
+Proton flux:
+
+
+The energetic (> 10 MeV) proton flux, 15 minute 
+
+average
+
+
+
+Impact on HF propagarion:
+
+
+Polar Cap Absorption (PCA) events. Degrade signals 
+
+passing through the polar D region, last for 
+
+up to 10 days
+
+.topic 4
+X-ray flux:
+
+
+The 1 - 8 A solar x-ray flux, 15 minute average
+
+
+
+Impact on HF propagarion:
+
+
+Short wave fadeouts (SWF) in the daylit part of the 
+
+ionosphere. Affect lower frequencies most, last from
+
+tens of minutes to hours
+
+.topic 5
+Sunspot number:
+
+
+The observed daily number of sunspots and sunspot groups
+
+.topic 6
+Solar flux index:
+
+
+Solar radio noise flux at a wavelength of 10.7 cm
+
+
+
+Impact on HF propagarion:
+
+
+Radiation of this wavelength does not affect 
+
+the ionosphere. However, SFI is correlated 
+
+with the solar UV flux responsible for
+
+the ionization in the upper layers of atmosphere. 
+
+The higher the SFI, the higher MUF can be expected.
+
+.topic 7
+Ap index:
+
+
+Daily global index of geomagnetic activity derived 
+
+from the 8  3-hourly values of Kp
+
+
+
+Impact on HF propagarion:
+
+
+See Kp
+
+.topic 8
+Proton background flux:
+
+
+A daily average background proton flux
+
+at energies greater than 10 MeV
+
+.topic 9
+X-ray background flux:
+
+
+A daily average background X-ray flux 
+
+in the 1 to 8 Angstrom range
+
+.topic 10
+Effective Sunspot Number:
+
+
+The value of the sunspot number 
+
+that provides the best match between 
+
+the mathematical model of the ionosphere 
+
+and the observed critical frequencies 
+
+of the F-layer.
+
+
+Can be used as an input into the
+
+propagation prediction programs for
+
+real-time propagation forecasts.
+
+.topic 101
+Geomagnetic storm
+
+
+
+Impact on HF propagarion:
+
+
+G2  -  HF radio propagation can fade at higher 
+
+  latitudes
+
+
+G3  -  HF radio may be intermittent
+
+
+G4  -  HF radio propagation sporadic
+
+
+G5  -  HF radio propagation may be impossible 
+
+  in many areas for one to two days
+
+.topic 102
+Solar radiation storm
+
+
+
+Impact on HF propagarion:
+
+
+S1  -  minor impacts on HF radio in the polar 
+
+  regions
+
+
+S2  -  small effects on HF propagation through 
+
+  the polar regions
+
+
+S3  -  degraded HF radio propagation through the 
+
+  polar regions
+
+
+S4  -  blackout of HF radio communications 
+
+  through the polar regions
+
+
+S5  -  complete blackout of HF communications 
+
+  possible through the polar regions
+
+.topic 103
+Radio blackout
+
+
+
+Impact on HF propagarion:
+
+
+R1  -  weak or minor degradation of HF radio 
+
+  communication on sunlit side, occasional loss 
+
+  of radio contact
+
+
+R2  -  limited blackout of HF radio communication
+
+  on sunlit side, loss of radio contact for tens of minutes
+
+
+R3  -  wide area blackout of HF radio communication,
+
+  loss of radio contact for about an hour on sunlit 
+
+  side of Earth
+
+
+R4  -  HF radio communication blackout on most of 
+
+  the sunlit side of Earth for one to two hours. 
+
+  HF radio contact lost during this time
+
+
+R5  -  HF radio blackout on the entire sunlit side 
+
+  of the Earth lasting for a number of hours

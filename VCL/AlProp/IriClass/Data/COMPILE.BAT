@@ -1,0 +1,1 @@
+C:\D5\BIN\brcc32.exe -r IriData.rc

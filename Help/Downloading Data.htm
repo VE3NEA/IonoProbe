@@ -1,0 +1,174 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<LINK REL = "stylesheet" TYPE = "text/css" HREF = "IonoProbe.css"> 
+
+<Title>Downloading Data</Title>
+</HEAD>
+<BODY>
+
+<h1>Downloading Data</h1>
+<br>
+<h2>Download Engine</h2>
+Ionoprobe uses Microsoft Internet Explorer as a download
+engine. It does not open the browser window,
+but it loads some IE modules in the background.
+Because of this, you do not have to tell Ionoprobe your
+proxy address, dial-up settings, authentication 
+passwords, etc. Just make sure that you have the latest
+Internet Explorer and that it is properly configured.
+If you can browse the Internet with IE, you can
+download data with IonoProbe.
+
+
+
+<br><br><br><br>
+<h2>Download Modes</h2>
+
+Iono probe can work in either the 
+<span class=BluB>Auto-Download</span> or 
+<span class=BluB>Manual Download</span>
+ mode. If you have a permanent connection to the Internet or
+an unlimited dial-up connection, use Auto-Download at all times, 
+this will ensure that you always have the latest space weather 
+indices and a continuous set of historical data. 
+<p>
+When 
+Auto-Download is enabled, IonoProbe downloads data according to a 
+carefully designed schedule that takes into account the update time
+and frequency of the files on the Web, and the amount of data in the 
+files. The schedule itself is updated at regular intervals 
+from the Ionoprobe Web site.
+<p>
+If Auto-Download is disabled, you still can initiate downloads
+manually using the commands described in the next section.
+<p>
+You can enable or disable the Auto-Download mode:
+
+<ul>
+<li> by ticking the
+<span class=Blu>Auto-Download Data</span> checkbox in the
+<a href="Settings Dialog.htm">Settings Dialog</a>;
+<br><br>
+
+
+<li>by clicking on the 
+<span class=Blu>Download -> Auto-Download</span>
+command in the 
+<a href="Menu.htm">Main Menu</a>;
+<br><br>
+
+<li>by clicking on 
+<span class=Blu>Auto-Download</span> 
+in the System Tray icon's
+<a href="Popup Menu.htm">Popup Menu</a>;
+<br><br>
+
+
+<li>by double-clicking on the
+<span class=Blu>Download Status</span>
+ icon (see below).
+</ul>
+
+<p>
+When <span class=Blu>Auto-Download Data</span> is enabled,
+you can specify if text reports will be included 
+in the downloads or not, by ticking the
+<span class=BluB>Including reports</span> checkbox
+in the 
+<a href="Settings Dialog.htm">Settings Dialog</a>.
+
+<br><br><br><br>
+<h2>Download Commands</h2>
+
+<span class=BluB>Download Latest Data</span><br>
+Download the current values of all parameters.
+
+
+<p>
+<span class=BluB>Download Recent Data</span><br>
+Since some files include data for a calendar day, downloading
+<span class=Blu>Latest Data</span>
+shortly after 00:00 UTC will give you only a few values.
+Use the Download Recent Data command to retrieve data for the 
+previous day. This command is executed automatically on program
+start if 
+<span class=Blu>Auto-Download Data</span>
+is enabled.
+
+<p>
+<span class=BluB>Download Old Data</span><br>
+IonoProbe keeps the data downloaded in the previous sessions
+so that you have a historical view of the parameters. 
+However, if you 
+are running the program for the first time or after a long break,
+then no historical data are available. In such cases the 
+Download Old Data command comes handy.
+
+<p>
+<span class=BluB>Download Reports</span><br>
+If you disabled automatic downlaods of 
+<a href="Reports Panel.htm">NOAA reports</a>,
+you can use this menu command to download the latest reports
+manually.
+
+<p>
+<span class=BluB>Abort Download</span><br>
+Immediately stop all running downloads.
+
+<p>
+All commands listed above work in both download modes.
+E.g., you can issue the 
+<span class=Blu>Download Recent Data</span> command
+when you are in the Auto-download mode if you think that
+some recent data are missing.
+
+
+
+<br><br><br><br>
+<h2>Download Status</h2>
+A small icon in the bottom-right 
+corner of the window indicates the status of the 
+download engine:
+<br><br><center>
+<img src="Status.gif" width="53" height="43" alt="" border="0">
+</center>
+
+<p>
+The following images are displayed:
+
+
+<br><br><br>
+<img src="StopDL.gif" width="13" height="16" alt="" border="0">
+- Auto-Download disabled;
+
+<p>
+<img src="WaitDL.gif" width="15" height="15" alt="" border="0">
+- waiting for the next download cycle;
+
+<p>
+<img src="InProgressDL.gif" width="13" height="14" alt="" border="0">
+- downloading data;
+
+<p>
+<img src="OkDL.gif" width="13" height="12" alt="" border="0">
+- all downloads succeeded;
+
+<p>
+<img src="ErrDL.gif" width="16" height="16" alt="" border="0">
+- some downloads failed;
+
+<p>
+<img src="AllFailedDL.gif" width="13" height="15" alt="" border="0">
+- all downloads failed. Double-check your IE configuration.
+
+
+<br><br><br>
+The icon has a mouse-over hint that displays
+additional status information, including the number
+of downloaded files, the error count,
+and the time left to the next download.
+
+</BODY>
+</HTML>
